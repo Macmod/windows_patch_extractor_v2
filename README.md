@@ -1,3 +1,11 @@
+# Windows Patch Extractor (v2)
+
+This is an updated fork of [star-sg/windows\_patch\_extractor](https://github.com/star-sg/windows_patch_extractor) including:
+
+* Support for Python 3.12
+
+* `requirements.txt` to make installation easier
+
 # Magic patch
 An extensible tool for extracting windows patches
 
