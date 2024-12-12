@@ -6,6 +6,10 @@ This is an updated fork of [star-sg/windows\_patch\_extractor](https://github.co
 
 * `requirements.txt` to make installation easier
 
+## Note
+
+The `PSFExtractor.exe` is taken from the `PSFExtractor v3.07` release at [Secant1106/PSFExtractor](https://github.com/Secant1006/PSFExtractor)
+
 # Magic patch
 An extensible tool for extracting windows patches
 
